@@ -5,7 +5,7 @@ function firstChar(text) {
 			return text[i];
 		}
 	}
-	retutn " ";
+	retutn "";
 	
 }
 
